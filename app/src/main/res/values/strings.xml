@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplo Calculadora WebServices</string>
+    <string name="txt_valor1">Valor 1</string>
+    <string name="txt_valor2">Valor 2</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_resultado">Resultado: 0</string>
+</resources>
